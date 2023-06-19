@@ -1,7 +1,7 @@
 {
   "name": "backendmassivething",
   "version": "1.0.0",
-  "description": "",
+  "description": "steps for deploying on vercel\r create backend repo\r npm i json server \r  npm init -y \r create folder index.js and db.json copy db data\r then go to cyclic for the creating link for backend select backend repo you will get link\r you will get backend data link copy paste it to require places\r  copy boiler code paste to index.js\r 3)const jsonServer = require('json-server')\r const server = jsonServer.create()\r const router = jsonServer.router('db.json')\r const middlewares = jsonServer.defaults()\r const PORT = process.env.PORT || 8000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Akashwakade/backendmassivething#readme",
   "dependencies": {
     "json-server": "^0.17.3"
-  }
+  },
+  "devDependencies": {}
 }
