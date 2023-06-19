@@ -1,0 +1,191 @@
+{
+    "users": [
+      {
+        "username": "akash",
+        "password": "1234",
+        "id": 1
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "category": "Equity",
+        "asset_class": "Stocks",
+        "fees_expense": "0.10%",
+        "investment": "$10,000",
+        "ytd_returns": "12.4%",
+        "three_month_returns": "4.5%"
+      },
+      {
+        "id": 2,
+        "category": "Equity",
+        "asset_class": "Bonds",
+        "fees_expense": "0.15%",
+        "investment": "$5,000",
+        "ytd_returns": "9.2%",
+        "three_month_returns": "2.8%"
+      },
+      {
+        "id": 3,
+        "category": "Real Estate",
+        "asset_class": "REITs",
+        "fees_expense": "0.20%",
+        "investment": "$15,000",
+        "ytd_returns": "8.1%",
+        "three_month_returns": "1.5%"
+      },
+      {
+        "id": 4,
+        "category": "Alternatives",
+        "asset_class": "Private Equity",
+        "fees_expense": "0.25%",
+        "investment": "$20,000",
+        "ytd_returns": "15.6%",
+        "three_month_returns": "6.2%"
+      },
+      {
+        "id": 5,
+        "category": "Stocks",
+        "assetClass": "Equity",
+        "fees": "0.05%",
+        "investment": "$10,000",
+        "ytdReturns": "+8.32%",
+        "threeMonthReturns": "+5.61%"
+      },
+      {
+        "id": 6,
+        "category": "Bonds",
+        "assetClass": "Fixed Income",
+        "fees": "0.03%",
+        "investment": "$50,000",
+        "ytdReturns": "+3.45%",
+        "threeMonthReturns": "+1.12%"
+      },
+      {
+        "id": 7,
+        "category": "Mutual Funds",
+        "assetClass": "Mixed",
+        "fees": "0.07%",
+        "investment": "$25,000",
+        "ytdReturns": "+4.88%",
+        "threeMonthReturns": "+2.31%"
+      },
+      {
+        "id": 8,
+        "category": "ETFs",
+        "assetClass": "Equity",
+        "fees": "0.02%",
+        "investment": "$5,000",
+        "ytdReturns": "+9.12%",
+        "threeMonthReturns": "+6.23%"
+      },
+      {
+        "id": 9,
+        "category": "Global Equity",
+        "assetClass": "Equity",
+        "feesExpense": "1.2%",
+        "investment": "Aggressive",
+        "ytdReturns": "10.3%",
+        "threeMonthReturns": "8.6%"
+      },
+      {
+        "id": 10,
+        "category": "Global Fixed Income",
+        "assetClass": "Fixed Income",
+        "feesExpense": "1.1%",
+        "investment": "Moderate",
+        "ytdReturns": "5.6%",
+        "threeMonthReturns": "3.2%"
+      },
+      {
+        "id": 11,
+        "category": "Emerging Markets Equity",
+        "assetClass": "Equity",
+        "feesExpense": "1.5%",
+        "investment": "Aggressive",
+        "ytdReturns": "15.2%",
+        "threeMonthReturns": "12.8%"
+      },
+      {
+        "id": 12,
+        "category": "Equity",
+        "asset_class": "Large Cap",
+        "fees_expense": 0.04,
+        "investment": "Growth",
+        "ytd_return": 0.12,
+        "three_month_return": 0.05
+      },
+      {
+        "id": 13,
+        "category": "Equity",
+        "asset_class": "Small Cap",
+        "fees_expense": 0.05,
+        "investment": "Value",
+        "ytd_return": 0.1,
+        "three_month_return": 0.03
+      },
+      {
+        "id": 14,
+        "category": "Equity",
+        "asset_class": "Mid Cap",
+        "fees_expense": 0.03,
+        "investment": "Blend",
+        "ytd_return": 0.09,
+        "three_month_return": 0.06
+      },
+      {
+        "id": 15,
+        "category": "Fixed Income",
+        "asset_class": "Municipal Bond",
+        "fees_expense": 0.02,
+        "investment": "Intermediate-Term",
+        "ytd_return": 0.06,
+        "three_month_return": 0.02
+      },
+      {
+        "id": 16,
+        "category": "Fixed Income",
+        "asset_class": "Corporate Bond",
+        "fees_expense": 0.03,
+        "investment": "Short-Term",
+        "ytd_return": 0.04,
+        "three_month_return": 0.01
+      },
+      {
+        "id": 17,
+        "category": "Fixed Income",
+        "asset_class": "Government Bond",
+        "fees_expense": 0.02,
+        "investment": "Long-Term",
+        "ytd_return": 0.08,
+        "three_month_return": 0.03
+      },
+      {
+        "id": 18,
+        "category": "Real Estate",
+        "asset_class": "REIT",
+        "fees_expense": 0.06,
+        "investment": "Growth",
+        "ytd_return": 0.15,
+        "three_month_return": 0.08
+      },
+      {
+        "id": 19,
+        "category": "Alternative",
+        "asset_class": "Hedge Fund",
+        "fees_expense": 0.1,
+        "investment": "Opportunistic",
+        "ytd_return": 0.2,
+        "three_month_return": 0.12
+      },
+      {
+        "id": 20,
+        "category": "Commodities",
+        "asset_class": "Gold",
+        "fees_expense": 0.08,
+        "investment": "Growth",
+        "ytd_return": 0.18,
+        "three_month_return": 0.09
+      }
+    ]
+  }
