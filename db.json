@@ -9,12 +9,8 @@
         "username": "vikas",
         "password": "1234",
         "id": 1
-      },
-      {
-        "username": "gaurav",
-        "password": "1234",
-        "id": 1
       }
+      
     ],
     "products": [
       {
